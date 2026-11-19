@@ -1,0 +1,202 @@
+{
+  "studio": "Wolf & Crow LLC",
+  "story": "Wolf & Crow is where my passions become apps. Every app here began with something I genuinely care about: a hard week that needs a win, the mystery of lucid dreaming, the thrill of finding a rare antique, the men and women who wear the badge, and a mind that would rather grow than scroll.\n\nMy faith is at the heart of who I am, so you'll find Christian elements woven into some of these apps: a verse, a reflection, a reminder of hope. They're always offered, never forced.\n\nI build every app with one goal: to make someone's day a little better. Thank you for being here.\n\n— Rob, Wolf & Crow LLC",
+  "feedbackUrl": "",
+  "storeUrl": "https://play.google.com/store/apps/developer?id=Wolf+%26+Crow+LLC",
+  "apps": [
+    {
+      "name": "Daily Bread: Feed Your Mind",
+      "tagline": "Micro-learning that feeds your mind, not the scroll.",
+      "description": "Micro-learning for your faith and mind: bite-sized lessons on faith, Stoicism, philosophy and any topic you add, each paired with a Bible verse and a reflection. Built to replace the scroll.",
+      "package": "com.wolfintn.dailybread",
+      "latestVersion": "3.2",
+      "webUrl": "https://wolfintn.github.io/dailybread-web/",
+      "icon": "icons/dailybread.png",
+      "color": "#2F6B55",
+      "status": "live",
+      "downloadUrl": "",
+      "features": [
+        "Bite-sized lessons in faith, Stoicism and philosophy",
+        "Add any topic you want to learn about",
+        "Fresh content so it's never the same old articles",
+        "A verse and a reflection with every lesson"
+      ],
+      "screenshots": [
+        "screens/dailybread/1.jpg",
+        "screens/dailybread/2.jpg"
+      ],
+      "privacy": "legal/daily-bread-privacy.html",
+      "goodToKnow": [
+        "Some lessons are written by AI. Tap Report on any that seem wrong and it's removed and reviewed.",
+        "Scripture is quoted from public-domain translations; modern ones open on Bible Gateway.",
+        "Your notes and progress stay on your phone."
+      ]
+    },
+    {
+      "name": "Ironroot: Sober Day Counter",
+      "tagline": "Stay rooted. Stay sober.",
+      "description": "Ironroot keeps you grounded in recovery: count every sober day, celebrate milestones, ride out cravings with calming tools and recovery videos, and reach your support people in one tap. Private by design, your tracking stays on your phone.",
+      "package": "com.sobertracker.app",
+      "latestVersion": "7.7",
+      "icon": "icons/sobertracker.png",
+      "color": "#E5B95A",
+      "status": "live",
+      "webUrl": "",
+      "downloadUrl": "",
+      "features": [
+        "Sober day counter with milestone celebrations",
+        "Reach your support people in one tap",
+        "Your tracking data stays on your phone"
+      ],
+      "screenshots": [
+        "screens/sobertracker/1.jpg",
+        "screens/sobertracker/2.jpg"
+      ],
+      "privacy": "legal/sober-tracker-privacy.html",
+      "goodToKnow": [
+        "A support tool, not medical treatment. In a crisis, call or text 988.",
+        "Your tracking, journal and contacts stay on your phone.",
+        "AI chat runs through a secure server, and any reply can be reported in the app."
+      ]
+    },
+    {
+      "name": "Last Stand",
+      "tagline": "Bad week? Watch good win.",
+      "description": "Open it and a good-beats-evil battle scene is already playing. Swipe for the next one and star the ones that hit hardest.",
+      "package": "com.wolfandcrow.laststand",
+      "latestVersion": "5.4",
+      "icon": "icons/laststand.png",
+      "color": "#E8742A",
+      "status": "live",
+      "webUrl": "",
+      "downloadUrl": "",
+      "features": [
+        "A good-beats-evil battle scene plays the moment you open it",
+        "Swipe for the next scene, star the ones that hit hardest",
+        "Add your own favorite clips with a YouTube link"
+      ],
+      "screenshots": [
+        "screens/laststand/1.jpg",
+        "screens/laststand/2.jpg"
+      ],
+      "privacy": "legal/last-stand-privacy.html",
+      "goodToKnow": [
+        "For adults 18+. Contains movie battle and fight violence.",
+        "Clips stream from YouTube, with official studio uploads first. Not affiliated with any studio."
+      ]
+    },
+    {
+      "name": "Railside",
+      "tagline": "Trains, track radio & the folks who love them.",
+      "description": "A home for everyone who loves trains: live cams and trains near you, live rail radio, a crash course in railroading, and the best train videos.",
+      "package": "com.wolfandcrow.highball",
+      "latestVersion": "4.3.1",
+      "downloadUrl": "",
+      "webUrl": "",
+      "icon": "icons/highball.png",
+      "color": "#F26B1D",
+      "status": "live",
+      "features": [
+        "Trackside: live train cams, rare moves and trains near you",
+        "Live rail and transit scanner radio",
+        "Rail School: horn signals, locomotives, railroad lingo, safety, and a weekly quiz",
+        "A train logbook, night train sounds, and railfanning videos"
+      ],
+      "screenshots": [
+        "screens/highball/1.jpg",
+        "screens/highball/2.jpg"
+      ],
+      "privacy": "legal/highball-privacy.html",
+      "goodToKnow": [
+        "Watch from public property. Never trespass on railroad tracks or property.",
+        "Shared sightings list towns only, and anything can be reported or hidden.",
+        "Scanner audio comes from OpenMHz volunteers. Scanner laws vary by state."
+      ]
+    },
+    {
+      "name": "Timeworn",
+      "tagline": "Find the old. Trade the rare.",
+      "description": "Antique shop finder, a collector community and a buy/sell marketplace, all in an old-world style.",
+      "package": "com.wolfandcrow.curioexchange",
+      "latestVersion": "1.0",
+      "icon": "icons/curioexchange.png",
+      "color": "#7B2230",
+      "status": "live",
+      "webUrl": "",
+      "downloadUrl": "",
+      "features": [
+        "Find antique shops near you, with hours and details",
+        "A community of collectors to share finds with",
+        "Buy and sell antiques in the marketplace",
+        "Old-world style throughout"
+      ],
+      "screenshots": [
+        "screens/curioexchange/1.jpg",
+        "screens/curioexchange/2.jpg"
+      ],
+      "privacy": "legal/curio-exchange-privacy.html",
+      "goodToKnow": [
+        "You must be 18+ to buy or sell. Sales are between members; meet somewhere public.",
+        "Report any listing, thread or note, and block members you don't want to see.",
+        "No weapons, ivory, protected cultural items, human remains or stolen goods."
+      ]
+    },
+    {
+      "name": "What's Your Badge Number?",
+      "tagline": "The stories behind the badge.",
+      "description": "A community where public servants share what they see, with media and live first-responder radio.",
+      "package": "com.wolfandcrow.badgenumber",
+      "latestVersion": "1.0.2",
+      "icon": "icons/badgenumber.png",
+      "color": "#D4A845",
+      "status": "live",
+      "webUrl": "",
+      "downloadUrl": "",
+      "features": [
+        "Stories from public servants, in their own words",
+        "Media tab with videos from cops and first responders",
+        "Live first-responder radio",
+        "\"Feeling Brave?\" lets you share your story by audio or video"
+      ],
+      "screenshots": [
+        "screens/badgenumber/1.jpg",
+        "screens/badgenumber/2.jpg"
+      ],
+      "privacy": "legal/badge-number-privacy.html",
+      "goodToKnow": [
+        "Stories are public. No real names, addresses, plate or case numbers.",
+        "Report any story or reply, and hide anyone you don't want to see.",
+        "Not affiliated with any agency. Scanner audio comes from OpenMHz volunteers."
+      ]
+    },
+    {
+      "name": "Dreamwalk",
+      "tagline": "Wake up inside your dreams.",
+      "description": "Lucid dreaming training, a dream journal and nightly intentions, with a Christian thread.",
+      "package": "com.wolfandcrow.dreamwalk",
+      "latestVersion": "0.2.3",
+      "icon": "icons/luciddream.png",
+      "color": "#3D2350",
+      "status": "live",
+      "webUrl": "",
+      "downloadUrl": "",
+      "features": [
+        "Step-by-step lucid dreaming training",
+        "A dream journal to capture every night",
+        "Nightly intentions before you sleep",
+        "Audio and video on lucid dreaming, with a Christian thread"
+      ],
+      "screenshots": [
+        "screens/dreamwalk/1.jpg",
+        "screens/dreamwalk/2.jpg"
+      ],
+      "privacy": "legal/dreamwalk-privacy.html",
+      "goodToKnow": [
+        "Your dream journal stays on your phone.",
+        "Videos and podcasts belong to their creators and stream from YouTube and podcast services."
+      ]
+    }
+  ],
+  "contactEmail": "wolf.crow.tn.llc@gmail.com",
+  "privacy": "legal/wolf-crow-privacy.html"
+}

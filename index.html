@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wolf &amp; Crow LLC</title>
+<meta name="description" content="Wolf & Crow LLC makes Android apps built around things worth caring about.">
+<link rel="icon" href="logo.png">
+<style>
+  :root { --bg:#0B0B0D; --panel:#141418; --line:#26262D; --silver:#C9CED6; --text:#E6E8EC; --muted:#8C9099; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--text); font-family: Georgia, "Times New Roman", serif; line-height:1.6; }
+  .wrap { max-width: 880px; margin: 0 auto; padding: 48px 20px 64px; }
+  header { text-align:center; }
+  header img { width:132px; height:132px; border-radius:50%; border:1px solid var(--line); }
+  h1 { font-weight:normal; letter-spacing:.18em; text-transform:uppercase; color:var(--silver); margin:18px 0 4px; font-size:28px; }
+  .sub { color:var(--muted); margin:0; }
+  .story { white-space:pre-line; margin:36px auto 0; max-width:640px; color:var(--text); }
+  h2 { font-weight:normal; letter-spacing:.14em; text-transform:uppercase; color:var(--silver); font-size:15px; margin:56px 0 16px; border-bottom:1px solid var(--line); padding-bottom:8px; }
+  .apps { display:grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap:16px; }
+  .app { background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:18px; display:flex; flex-direction:column; }
+  .app .top { display:flex; gap:12px; align-items:center; }
+  .app img { width:52px; height:52px; border-radius:12px; flex:none; }
+  .app h3 { margin:0; font-size:17px; font-weight:normal; color:var(--text); }
+  .app .tag { color:var(--muted); font-size:14px; margin:0; }
+  .app p.desc { font-size:14.5px; margin:12px 0 14px; flex:1; }
+  .links { display:flex; gap:14px; flex-wrap:wrap; font-size:14px; }
+  a { color:var(--silver); }
+  .play { background:var(--silver); color:#0B0B0D; text-decoration:none; padding:6px 12px; border-radius:999px; }
+  footer { margin-top:56px; color:var(--muted); font-size:14px; text-align:center; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <img src="logo.png" alt="Wolf &amp; Crow logo">
+    <h1>Wolf &amp; Crow</h1>
+    <p class="sub">Apps built around things worth caring about.</p>
+  </header>
+  <p class="story" id="story"></p>
+
+  <h2>Our apps</h2>
+  <div class="apps" id="apps"><noscript>Our apps are listed on <a href="https://play.google.com/store/apps/developer?id=Wolf+%26+Crow+LLC">Google Play</a>.</noscript></div>
+
+  <h2>Privacy</h2>
+  <p>Each app has its own privacy policy, linked with the app above. The Wolf &amp; Crow hub app's policy is <a href="privacy/wolf-crow.html">here</a>. Timeworn members can <a href="timeworn/delete-account.html">delete their account</a> at any time.</p>
+
+  <h2>Contact</h2>
+  <p>Questions, feedback or a problem with an app: <a href="mailto:wolf.crow.tn.llc@gmail.com?subject=Feedback%20for%20Wolf%20%26%20Crow">wolf.crow.tn.llc@gmail.com</a></p>
+
+  <footer>&copy; <span id="yr">2026</span> Wolf &amp; Crow LLC, Tennessee. All rights reserved.</footer>
+</div>
+<script>
+  document.getElementById('yr').textContent = new Date().getFullYear();
+  fetch('apps.json?t=' + Date.now()).then(r => r.json()).then(d => {
+    document.getElementById('story').textContent = d.story || '';
+    const box = document.getElementById('apps');
+    box.innerHTML = '';
+    (d.apps || []).filter(a => a.status !== 'hidden').forEach(a => {
+      const el = document.createElement('div');
+      el.className = 'app';
+      const play = a.downloadUrl || ('https://play.google.com/store/apps/details?id=' + encodeURIComponent(a.package));
+      const icon = /^https?:/.test(a.icon || '') ? a.icon : (a.icon || '');
+      el.innerHTML =
+        '<div class="top"><img alt=""><div><h3></h3><p class="tag"></p></div></div>' +
+        '<p class="desc"></p><div class="links"></div>';
+      el.querySelector('img').src = icon;
+      el.querySelector('h3').textContent = a.name;
+      el.querySelector('.tag').textContent = a.tagline || '';
+      el.querySelector('.desc').textContent = a.description || '';
+      const links = el.querySelector('.links');
+      const add = (text, href, cls) => { const l = document.createElement('a'); l.textContent = text; l.href = href; if (cls) l.className = cls; links.appendChild(l); };
+      if (a.status === 'coming_soon') { const s = document.createElement('span'); s.textContent = 'Coming soon'; links.appendChild(s); }
+      else add('Get it on Google Play', play, 'play');
+      if (a.webUrl) add('Use on the web', a.webUrl);
+      if (a.privacy) add('Privacy policy', 'privacy/' + (window.POLICY_FILES[a.package] || ''));
+      box.appendChild(el);
+    });
+  }).catch(() => {});
+  // App package -> policy file on this site (see publish-site.sh)
+  window.POLICY_FILES = {
+    'com.wolfintn.dailybread': 'daily-bread.html',
+    'com.sobertracker.app': 'ironroot.html',
+    'com.wolfandcrow.laststand': 'last-stand.html',
+    'com.wolfandcrow.highball': 'railside.html',
+    'com.wolfandcrow.curioexchange': 'timeworn.html',
+    'com.wolfandcrow.badgenumber': 'badge-number.html',
+    'com.wolfandcrow.dreamwalk': 'dreamwalk.html'
+  };
+</script>
+</body>
+</html>
