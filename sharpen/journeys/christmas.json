@@ -1,0 +1,88 @@
+{
+  "id": "christmas",
+  "title": "The King Comes",
+  "subtitle": "A Christmas journey in 5 stops",
+  "kind": "season",
+  "season": "christmas",
+  "order": 10,
+  "version": 1,
+  "stops": [
+    {
+      "id": "xmas-promise",
+      "title": "A Great Light",
+      "era": "The Prophets",
+      "place": "Judah",
+      "ref": "Isaiah 9:2-7",
+      "summary": "Centuries before Bethlehem, Isaiah promises a child who will carry the government on His shoulders.",
+      "why": "Isaiah wrote this to people living in real darkness: war, fear, a failing nation. God's answer was a baby. Christmas didn't come out of nowhere. It was a promise kept, and the names Isaiah gave tell you who that child is.",
+      "videoQuery": "BibleProject Isaiah 1-39 overview",
+      "quiz": [
+        {"type": "mc", "q": "Which is NOT one of the names Isaiah gives the child?", "options": ["Wonderful, Counsellor", "The mighty God", "The Prince of Peace", "The Lion of Judah"], "answer": 3},
+        {"type": "mc", "q": "What did the people walking in darkness see?", "options": ["A star", "A great light", "An angel", "A burning bush"], "answer": 1},
+        {"type": "mc", "q": "Whose throne will the child reign on?", "options": ["Moses'", "David's", "Solomon's", "Caesar's"], "answer": 1}
+      ]
+    },
+    {
+      "id": "xmas-mary",
+      "title": "Be It Unto Me",
+      "era": "The Gospels",
+      "place": "Nazareth",
+      "ref": "Luke 1:26-38",
+      "summary": "The angel Gabriel tells a young woman in Nazareth that she will carry the Son of God.",
+      "why": "Mary was young, engaged and about to have a story no one would believe. Saying yes could cost her marriage, her reputation and possibly her life. She asked an honest question, then said yes anyway. Faith isn't the absence of questions.",
+      "videoQuery": "BibleProject Gospel of Luke part 1",
+      "card": {"name": "Mary", "title": "The Willing Servant", "strength": "Said yes to God at great personal risk.", "weakness": "Scripture records her questions, not failures: \"How shall this be?\"", "verse": "Luke 1:38"},
+      "quiz": [
+        {"type": "mc", "q": "Which angel visited Mary?", "options": ["Michael", "Gabriel", "Raphael", "An unnamed angel"], "answer": 1},
+        {"type": "mc", "q": "What town was Mary living in?", "options": ["Bethlehem", "Jerusalem", "Nazareth", "Capernaum"], "answer": 2},
+        {"type": "who", "q": "\"Behold the handmaid of the Lord; be it unto me according to thy word.\"", "options": ["Elisabeth", "Mary", "Anna", "Hannah"], "answer": 1}
+      ]
+    },
+    {
+      "id": "xmas-joseph",
+      "title": "The Quiet Yes",
+      "era": "The Gospels",
+      "place": "Nazareth",
+      "ref": "Matthew 1:18-25",
+      "summary": "Joseph plans to quietly call off the marriage, until an angel speaks to him in a dream.",
+      "why": "Joseph never says a word in the Bible, but his actions say everything. He planned to protect Mary from public shame even when he thought she'd betrayed him. When God spoke, he obeyed right away and raised a son who wasn't his. Strength can be quiet.",
+      "videoQuery": "Joseph's dream Matthew 1 Christmas",
+      "card": {"name": "Joseph", "title": "The Quiet Protector", "strength": "Obeyed at once and protected his family.", "weakness": "Planned to quietly divorce Mary before the angel spoke.", "verse": "Matthew 1:24"},
+      "quiz": [
+        {"type": "mc", "q": "How did the angel speak to Joseph?", "options": ["In the temple", "In a dream", "On the road", "Through Mary"], "answer": 1},
+        {"type": "mc", "q": "Why was the baby to be named Jesus?", "options": ["After his grandfather", "He would save His people from their sins", "It means 'king'", "The prophets named Him"], "answer": 1},
+        {"type": "mc", "q": "What does \"Emmanuel\" mean?", "options": ["Prince of Peace", "God with us", "Son of David", "Savior"], "answer": 1}
+      ]
+    },
+    {
+      "id": "xmas-bethlehem",
+      "title": "Born in Bethlehem",
+      "era": "The Gospels",
+      "place": "Bethlehem",
+      "ref": "Luke 2:1-20",
+      "summary": "No room in the inn, a manger for a bed, and angels announcing it to shepherds.",
+      "why": "The King of the universe was born in a feeding trough, and the announcement went first to shepherds, who were rough, working men on the night shift. God's biggest news went to the people the world overlooked.",
+      "videoQuery": "BibleProject Christmas Luke 2",
+      "quiz": [
+        {"type": "mc", "q": "Whose decree sent Joseph and Mary to Bethlehem?", "options": ["Herod", "Caesar Augustus", "Pontius Pilate", "The high priest"], "answer": 1},
+        {"type": "mc", "q": "Where was the baby laid?", "options": ["In a cradle", "In a manger", "In the temple", "In a tent"], "answer": 1},
+        {"type": "mc", "q": "Who heard the news first from the angels?", "options": ["Wise men", "Priests", "Shepherds", "King Herod"], "answer": 2}
+      ]
+    },
+    {
+      "id": "xmas-wisemen",
+      "title": "Following the Star",
+      "era": "The Gospels",
+      "place": "Bethlehem",
+      "ref": "Matthew 2:1-12",
+      "summary": "Wise men travel from the east, follow a star and bring gifts to the young King.",
+      "why": "Foreigners crossed a long distance to worship a child, while the king in Jerusalem felt threatened by Him. Jesus divides people even now: some come looking for Him, some see Him as a threat. Then the wise men went home another way.",
+      "videoQuery": "wise men Matthew 2 Bible story",
+      "quiz": [
+        {"type": "mc", "q": "Which was NOT one of the wise men's gifts?", "options": ["Gold", "Frankincense", "Myrrh", "Silver"], "answer": 3},
+        {"type": "mc", "q": "Which king was troubled by the news?", "options": ["Herod", "David", "Caesar", "Pharaoh"], "answer": 0},
+        {"type": "mc", "q": "Why did the wise men go home another way?", "options": ["They got lost", "God warned them in a dream", "The road was flooded", "Joseph told them to"], "answer": 1}
+      ]
+    }
+  ]
+}

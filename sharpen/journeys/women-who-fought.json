@@ -1,0 +1,121 @@
+{
+  "id": "women-who-fought",
+  "title": "Women Who Fought",
+  "subtitle": "7 women whose courage changed the story",
+  "kind": "main",
+  "order": 3,
+  "version": 1,
+  "stops": [
+    {
+      "id": "deborah",
+      "title": "The Judge Under the Palm",
+      "era": "The Judges",
+      "place": "Mount Tabor",
+      "ref": "Judges 4:4-22",
+      "summary": "Deborah calls Barak to battle, he won't go without her, and the enemy general falls to Jael.",
+      "why": "Israel's army commander wouldn't move unless Deborah came with him. She went, and she told him the honor would go to a woman. Then Jael, a woman nobody expected to matter, ended the war. God's plans don't depend on who people expect.",
+      "videoQuery": "Deborah and Barak Judges 4 Bible",
+      "card": {"name": "Deborah", "title": "The Judge", "strength": "Led Israel with courage and wisdom when its men hesitated.", "weakness": "Scripture records no failure, only faith.", "verse": "Judges 4:14"},
+      "quiz": [
+        {"type": "mc", "q": "Where did Deborah sit to judge Israel?", "options": ["At the city gate", "Under a palm tree", "In the temple", "On a mountain"], "answer": 1},
+        {"type": "who", "q": "\"If thou wilt go with me, then I will go.\"", "options": ["Gideon", "Barak", "Sisera", "Heber"], "answer": 1},
+        {"type": "mc", "q": "Who killed the enemy general Sisera?", "options": ["Deborah", "Barak", "Jael", "An archer"], "answer": 2}
+      ]
+    },
+    {
+      "id": "rahab",
+      "title": "The Scarlet Cord",
+      "era": "The Conquest",
+      "place": "Jericho",
+      "ref": "Joshua 2:1-21",
+      "summary": "Rahab hides Israel's spies on her roof and asks them to spare her family when Jericho falls.",
+      "why": "Rahab was a prostitute in an enemy city, about as far outside God's people as you could be. She bet her life on Israel's God anyway. She's remembered in Hebrews 11 for her faith and named in the family line of Jesus. Nobody is too far gone.",
+      "videoQuery": "Rahab and the spies Joshua 2 Bible",
+      "card": {"name": "Rahab", "title": "The Risk-Taker", "strength": "Risked her life to protect God's people.", "weakness": "Lived as a prostitute, and lied to the king's men.", "verse": "Hebrews 11:31"},
+      "quiz": [
+        {"type": "mc", "q": "Where did Rahab hide the spies?", "options": ["In a well", "Under flax on her roof", "In a cave", "In the city wall's gate"], "answer": 1},
+        {"type": "mc", "q": "What was the sign that would save her family?", "options": ["A lamp in the window", "A scarlet cord in the window", "Blood on the door", "A white flag"], "answer": 1},
+        {"type": "mc", "q": "Which book later honors Rahab for her faith?", "options": ["Hebrews", "Romans", "Revelation", "Acts"], "answer": 0}
+      ]
+    },
+    {
+      "id": "ruth",
+      "title": "Where You Go, I Will Go",
+      "era": "The Judges",
+      "place": "Moab to Bethlehem",
+      "ref": "Ruth 1:8-18",
+      "summary": "Widowed and with every reason to go home, Ruth refuses to leave her mother-in-law Naomi.",
+      "why": "Ruth had nothing to gain by staying. Naomi was a widow, broke and bitter, heading to a land where Ruth would be a foreigner. Ruth stayed out of loyalty. That choice made her the great-grandmother of King David.",
+      "videoQuery": "BibleProject Ruth overview",
+      "card": {"name": "Ruth", "title": "The Loyal One", "strength": "Stayed when it cost her everything.", "weakness": "None recorded. She was a foreign widow with nothing.", "verse": "Ruth 1:16"},
+      "quiz": [
+        {"type": "mc", "q": "Who was Naomi to Ruth?", "options": ["Her sister", "Her mother-in-law", "Her aunt", "Her neighbor"], "answer": 1},
+        {"type": "mc", "q": "Which daughter-in-law kissed Naomi goodbye and went home?", "options": ["Orpah", "Leah", "Dinah", "Rachel"], "answer": 0},
+        {"type": "who", "q": "\"Whither thou goest, I will go... thy people shall be my people, and thy God my God.\"", "options": ["Naomi", "Ruth", "Esther", "Hannah"], "answer": 1}
+      ]
+    },
+    {
+      "id": "abigail",
+      "title": "The Woman Who Stopped a War",
+      "era": "The Kings",
+      "place": "Carmel",
+      "ref": "1 Samuel 25:14-35",
+      "summary": "Her foolish husband insults David, and Abigail rides out with food to stop David's revenge.",
+      "why": "David was about to wipe out a whole household in anger. Abigail stepped between a furious warrior and his mistake, with humility and wisdom. David thanked God for her. Sometimes the bravest thing is keeping someone else from doing something they'll regret.",
+      "videoQuery": "Abigail David Nabal 1 Samuel 25",
+      "card": {"name": "Abigail", "title": "The Peacemaker", "strength": "Talked a furious David out of bloodshed.", "weakness": "None recorded. She was married to a fool.", "verse": "1 Samuel 25:33"},
+      "quiz": [
+        {"type": "mc", "q": "What was the name of Abigail's foolish husband?", "options": ["Nabal", "Uriah", "Saul", "Laban"], "answer": 0},
+        {"type": "mc", "q": "What did Abigail bring to David and his men?", "options": ["Gold", "Food and wine", "Swords", "Horses"], "answer": 1},
+        {"type": "who", "q": "\"Blessed be thy advice, and blessed be thou.\"", "options": ["Nabal", "Samuel", "David", "Jonathan"], "answer": 2}
+      ]
+    },
+    {
+      "id": "esther",
+      "title": "For Such a Time as This",
+      "era": "The Exile",
+      "place": "Susa, Persia",
+      "ref": "Esther 4:10-17",
+      "summary": "Her people face destruction, and Queen Esther decides to go to the king uninvited, at the risk of death.",
+      "why": "Esther had position, comfort and every reason to stay quiet. Mordecai reminded her that maybe this was why she was there. Her answer is one of the bravest lines in the Bible: \"if I perish, I perish.\" Where God has put you might be for a reason.",
+      "videoQuery": "BibleProject Esther overview",
+      "card": {"name": "Esther", "title": "The Queen Who Risked It All", "strength": "Put her life on the line for her people.", "weakness": "Hid who she was at first, and was afraid to act.", "verse": "Esther 4:14"},
+      "quiz": [
+        {"type": "who", "q": "\"Who knoweth whether thou art come to the kingdom for such a time as this?\"", "options": ["Haman", "Mordecai", "The king", "Esther"], "answer": 1},
+        {"type": "who", "q": "\"If I perish, I perish.\"", "options": ["Esther", "Ruth", "Deborah", "Mordecai"], "answer": 0},
+        {"type": "mc", "q": "How long did Esther ask the people to fast?", "options": ["One day", "Three days", "Seven days", "Forty days"], "answer": 1}
+      ]
+    },
+    {
+      "id": "bleeding-woman",
+      "title": "Just Touch His Clothes",
+      "era": "The Gospels",
+      "place": "Galilee",
+      "ref": "Mark 5:25-34",
+      "summary": "After years of suffering, a woman pushes through the crowd and touches Jesus' clothes.",
+      "why": "Her illness made her an outcast. She'd spent everything on doctors and gotten worse. She pushed through a crowd she wasn't supposed to be in, hoping no one would notice. Jesus stopped everything to find her and call her \"Daughter.\"",
+      "videoQuery": "woman touches Jesus garment Mark 5",
+      "quiz": [
+        {"type": "mc", "q": "How long had the woman been sick?", "options": ["2 years", "7 years", "12 years", "38 years"], "answer": 2},
+        {"type": "mc", "q": "What did she touch?", "options": ["His hand", "His clothes", "His feet", "His staff"], "answer": 1},
+        {"type": "who", "q": "\"Daughter, thy faith hath made thee whole.\"", "options": ["Peter", "Jairus", "Jesus", "A priest"], "answer": 2}
+      ]
+    },
+    {
+      "id": "priscilla",
+      "title": "Teaching the Teacher",
+      "era": "The Early Church",
+      "place": "Ephesus",
+      "ref": "Acts 18:24-28",
+      "summary": "Priscilla and her husband Aquila quietly take a gifted preacher aside and teach him more fully.",
+      "why": "Apollos was eloquent and on fire, but missing part of the picture. Priscilla and Aquila didn't call him out in public. They invited him in and taught him. Paul later said they risked their necks for him. Strength sometimes looks like patient teaching at a kitchen table.",
+      "videoQuery": "Priscilla Aquila Apollos Acts 18",
+      "card": {"name": "Priscilla", "title": "The Teacher", "strength": "Taught one of the early church's best preachers, and risked her life for Paul.", "weakness": "None recorded.", "verse": "Romans 16:3"},
+      "quiz": [
+        {"type": "mc", "q": "Who was Priscilla's husband?", "options": ["Silas", "Aquila", "Timothy", "Barnabas"], "answer": 1},
+        {"type": "mc", "q": "Where was Apollos from?", "options": ["Rome", "Corinth", "Alexandria", "Antioch"], "answer": 2},
+        {"type": "mc", "q": "What did Priscilla and Aquila do for Apollos?", "options": ["Corrected him in front of the church", "Explained the way of God more fully to him", "Sent him away", "Paid for his travels"], "answer": 1}
+      ]
+    }
+  ]
+}

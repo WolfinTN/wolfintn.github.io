@@ -1,0 +1,87 @@
+{
+  "id": "easter",
+  "title": "The Road to the Cross",
+  "subtitle": "An Easter journey in 5 stops",
+  "kind": "season",
+  "season": "easter",
+  "order": 11,
+  "version": 1,
+  "stops": [
+    {
+      "id": "easter-entry",
+      "title": "Hosanna",
+      "era": "Holy Week",
+      "place": "Jerusalem",
+      "ref": "Matthew 21:1-11",
+      "summary": "Jesus rides into Jerusalem on a donkey while crowds lay down their coats and shout Hosanna.",
+      "why": "Kings rode in on warhorses. Jesus chose a donkey, fulfilling the prophecy of a humble king. The same city that cheered Him that day would shout \"Crucify him\" a few days later. Crowds change. He didn't.",
+      "videoQuery": "Palm Sunday triumphal entry Matthew 21",
+      "quiz": [
+        {"type": "mc", "q": "What did Jesus ride into Jerusalem?", "options": ["A horse", "A donkey", "A camel", "A chariot"], "answer": 1},
+        {"type": "mc", "q": "What did the crowds shout?", "options": ["\"Crucify him\"", "\"Hosanna to the son of David\"", "\"Long live Caesar\"", "\"Amen\""], "answer": 1},
+        {"type": "mc", "q": "What did people spread on the road?", "options": ["Flowers and gold", "Their garments and branches", "Water", "Grain"], "answer": 1}
+      ]
+    },
+    {
+      "id": "easter-feet",
+      "title": "The King Kneels",
+      "era": "Holy Week",
+      "place": "The Upper Room",
+      "ref": "John 13:1-15",
+      "summary": "On His last night, Jesus takes a towel and washes His disciples' feet.",
+      "why": "Washing feet was a servant's job, the lowest one in the house. Jesus did it knowing one of those men would betray Him that night. Then He said, \"I have given you an example.\" Real leadership kneels.",
+      "videoQuery": "Jesus washes disciples feet John 13",
+      "quiz": [
+        {"type": "who", "q": "\"Thou shalt never wash my feet.\"", "options": ["Judas", "Peter", "John", "Thomas"], "answer": 1},
+        {"type": "mc", "q": "What did Jesus use to dry their feet?", "options": ["His robe", "A towel", "His hair", "Nothing"], "answer": 1},
+        {"type": "who", "q": "\"I have given you an example, that ye should do as I have done to you.\"", "options": ["Paul", "Jesus", "Peter", "John"], "answer": 1}
+      ]
+    },
+    {
+      "id": "easter-trial",
+      "title": "Barabbas Goes Free",
+      "era": "Holy Week",
+      "place": "Jerusalem",
+      "ref": "Luke 23:13-25",
+      "summary": "Pilate finds no fault in Jesus, but the crowd demands a murderer's release instead.",
+      "why": "Barabbas was guilty and walked free. Jesus was innocent and took his place. That's the whole gospel in one scene. Every one of us is Barabbas in this story.",
+      "videoQuery": "Jesus before Pilate Barabbas Luke 23",
+      "quiz": [
+        {"type": "mc", "q": "Who did the crowd ask to have released?", "options": ["Peter", "Barabbas", "Judas", "Lazarus"], "answer": 1},
+        {"type": "mc", "q": "What did Pilate say about Jesus?", "options": ["He was guilty", "He found no fault in Him", "He was a rebel", "He should be stoned"], "answer": 1},
+        {"type": "mc", "q": "What did the crowd keep shouting?", "options": ["\"Hosanna\"", "\"Release him\"", "\"Crucify him\"", "\"Save yourself\""], "answer": 2}
+      ]
+    },
+    {
+      "id": "easter-cross",
+      "title": "Father, Forgive Them",
+      "era": "Holy Week",
+      "place": "Calvary",
+      "ref": "Luke 23:33-46",
+      "summary": "Between two criminals, Jesus forgives His executioners and promises paradise to a dying thief.",
+      "why": "While nails were going in, Jesus prayed for the men driving them. And a criminal with hours to live, who had nothing to offer, asked to be remembered. He was promised paradise that same day. It's never too late while you're still breathing.",
+      "videoQuery": "BibleProject Gospel of Luke part 2",
+      "card": {"name": "The Thief", "title": "The Last-Minute Believer", "strength": "Confessed Jesus as King while dying beside Him.", "weakness": "A criminal who admitted he deserved his sentence.", "verse": "Luke 23:42"},
+      "quiz": [
+        {"type": "who", "q": "\"Father, forgive them; for they know not what they do.\"", "options": ["Stephen", "Jesus", "Peter", "The thief"], "answer": 1},
+        {"type": "mc", "q": "What did Jesus promise the criminal who asked to be remembered?", "options": ["Freedom", "Paradise that day", "A second chance at life", "Nothing"], "answer": 1},
+        {"type": "who", "q": "\"Father, into thy hands I commend my spirit.\"", "options": ["Jesus", "Stephen", "David", "Elijah"], "answer": 0}
+      ]
+    },
+    {
+      "id": "easter-risen",
+      "title": "He Is Not Here",
+      "era": "Easter Sunday",
+      "place": "Jerusalem",
+      "ref": "Matthew 28:1-10",
+      "summary": "An angel rolls back the stone, the guards faint, and the women hear the news: He is risen.",
+      "why": "Rome sealed the tomb and posted soldiers. It didn't matter. The angel didn't roll the stone away to let Jesus out. He rolled it away so everyone could see in. The grave was already empty.",
+      "videoQuery": "He is risen Matthew 28 Easter",
+      "quiz": [
+        {"type": "mc", "q": "Who rolled back the stone?", "options": ["The disciples", "An angel", "The soldiers", "Mary"], "answer": 1},
+        {"type": "mc", "q": "What happened to the guards?", "options": ["They ran to Pilate", "They shook and became as dead men", "They worshiped", "They slept through it"], "answer": 1},
+        {"type": "who", "q": "\"He is not here: for he is risen, as he said.\"", "options": ["Peter", "The angel", "Mary Magdalene", "Jesus"], "answer": 1}
+      ]
+    }
+  ]
+}

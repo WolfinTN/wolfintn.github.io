@@ -1,0 +1,21 @@
+{
+  "church": "Demo Church",
+  "weekOf": "This week",
+  "title": "When You're Outnumbered",
+  "speaker": "Pastor Demo",
+  "passage": "2 Kings 6:8-17",
+  "bigIdea": "Fear counts the enemy. Faith counts what God has around you.",
+  "videoQuery": "Elisha chariots of fire 2 Kings 6",
+  "challenge": "Every time you feel outnumbered this week, pray Elisha's prayer for someone else: \"LORD, open his eyes.\"",
+  "discussion": [
+    "When have you felt surrounded with no way out?",
+    "Elisha's servant saw the army first. What do you tend to see first?",
+    "Who in your life needs their eyes opened this week?"
+  ],
+  "questions": [
+    {"type": "mc", "q": "Who kept warning the king of Israel about Syria's plans?", "options": ["Elijah", "Elisha", "Naaman", "Gehazi"], "answer": 1},
+    {"type": "mc", "q": "What surrounded the city of Dothan in the morning?", "options": ["A flood", "An army with horses and chariots", "A plague of locusts", "A great fire"], "answer": 1},
+    {"type": "who", "q": "\"Fear not: for they that be with us are more than they that be with them.\"", "options": ["Elisha", "The king of Syria", "Elisha's servant", "Elijah"], "answer": 0},
+    {"type": "mc", "q": "When the servant's eyes were opened, what did he see on the mountain?", "options": ["Angels singing", "Horses and chariots of fire", "A pillar of cloud", "The Syrian army fleeing"], "answer": 1}
+  ]
+}

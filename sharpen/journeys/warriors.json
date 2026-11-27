@@ -1,0 +1,676 @@
+{
+  "id": "warriors",
+  "title": "Warriors, Failures & Comebacks",
+  "subtitle": "13 men and women who fought, fell and got back up",
+  "kind": "main",
+  "order": 1,
+  "version": 1,
+  "stops": [
+    {
+      "id": "jacob",
+      "title": "Wrestling with God",
+      "era": "The Patriarchs",
+      "place": "Jabbok River",
+      "ref": "Genesis 32:22-32",
+      "summary": "Alone at night, Jacob wrestles a man until daybreak and refuses to let go without a blessing.",
+      "why": "Jacob spent his life grabbing: his brother's birthright, his father's blessing. Here he finally grabs hold of God instead. He walks away limping, with a new name. Israel, the whole nation, is named after a man who wouldn't let go of God. The limp matters too: God's blessing often comes with a wound that keeps you dependent on Him.",
+      "videoQuery": "BibleProject Jacob wrestles God Genesis 32",
+      "card": {
+        "name": "Jacob",
+        "title": "The Wrestler",
+        "strength": "Relentless. He would not let go until God blessed him.",
+        "weakness": "A schemer who deceived his own father and brother.",
+        "verse": "Genesis 32:28"
+      },
+      "quiz": [
+        {
+          "type": "mc",
+          "q": "What new name was Jacob given after the wrestling match?",
+          "options": [
+            "Israel",
+            "Abraham",
+            "Judah",
+            "Joseph"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "mc",
+          "q": "Where was Jacob injured during the fight?",
+          "options": [
+            "His hand",
+            "His hip",
+            "His head",
+            "His shoulder"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "who",
+          "q": "\"I will not let thee go, except thou bless me.\"",
+          "options": [
+            "Esau",
+            "Isaac",
+            "Jacob",
+            "Laban"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "joseph",
+      "title": "Betrayed, Then Raised Up",
+      "era": "The Patriarchs",
+      "place": "Egypt",
+      "ref": "Genesis 45:1-8",
+      "summary": "The brother they sold into slavery now rules Egypt, and he reveals himself to them.",
+      "why": "Joseph had every reason to get even: sold by his brothers, falsely accused, forgotten in prison. Instead he sees God's hand in all of it. This is one of the clearest pictures in the Bible of God taking what others meant for evil and turning it to good, and of a man choosing forgiveness when he holds all the power.",
+      "videoQuery": "BibleProject Joseph Genesis overview",
+      "card": {
+        "name": "Joseph",
+        "title": "The Forgiver",
+        "strength": "Kept his integrity as a slave and a prisoner, then forgave the brothers who sold him.",
+        "weakness": "As a young man he flaunted his dreams in front of his brothers.",
+        "verse": "Genesis 50:20"
+      },
+      "quiz": [
+        {
+          "type": "mc",
+          "q": "Who sold Joseph into slavery?",
+          "options": [
+            "The Egyptians",
+            "His brothers",
+            "Potiphar",
+            "His father"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "order",
+          "q": "Put Joseph's story in order.",
+          "items": [
+            "Joseph tells his dreams",
+            "Sold into slavery",
+            "Thrown into prison",
+            "Rules over Egypt"
+          ]
+        },
+        {
+          "type": "who",
+          "q": "\"Ye thought evil against me; but God meant it unto good.\"",
+          "options": [
+            "Joseph",
+            "Judah",
+            "Pharaoh",
+            "Reuben"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "moses",
+      "title": "The Reluctant Leader",
+      "era": "The Exodus",
+      "place": "Mount Horeb (Sinai)",
+      "ref": "Exodus 3:1-14",
+      "summary": "A fugitive shepherd meets God in a burning bush and is sent back to face Pharaoh.",
+      "why": "Moses had already tried to be a hero once and ended up killing a man and running for his life. Forty years later God calls him, and he argues back. God's answer isn't \"you're good enough.\" It's \"I will be with you,\" and He reveals His name, I AM. The call didn't depend on Moses being confident. It depended on who was sending him.",
+      "videoQuery": "BibleProject Exodus 1-18 overview",
+      "card": {
+        "name": "Moses",
+        "title": "The Reluctant Leader",
+        "strength": "Led a whole nation out of slavery.",
+        "weakness": "Killed an Egyptian and fled, then begged God to send someone else.",
+        "verse": "Exodus 14:14"
+      },
+      "quiz": [
+        {
+          "type": "mc",
+          "q": "What was strange about the bush Moses saw?",
+          "options": [
+            "It spoke in his mother's voice",
+            "It burned but was not consumed",
+            "It grew overnight",
+            "It was made of gold"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "mc",
+          "q": "Why was Moses told to take off his sandals?",
+          "options": [
+            "He was standing on holy ground",
+            "The ground was hot",
+            "It was the Sabbath",
+            "He was about to enter a temple"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "who",
+          "q": "\"Who am I, that I should go unto Pharaoh?\"",
+          "options": [
+            "Aaron",
+            "Joshua",
+            "Moses",
+            "Jethro"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "gideon",
+      "title": "Three Hundred Men",
+      "era": "The Judges",
+      "place": "Valley of Jezreel",
+      "ref": "Judges 7:15-22",
+      "summary": "God cuts Gideon's army down to 300 men armed with trumpets, jars and torches.",
+      "why": "When the angel first found Gideon, he was hiding, threshing wheat in a winepress so the enemy wouldn't see. God still called him a \"mighty man of valour.\" Then God shrank his army on purpose so nobody could claim Israel won by its own strength. The point isn't the size of your army. It's who fights for you.",
+      "videoQuery": "BibleProject Judges overview",
+      "card": {
+        "name": "Gideon",
+        "title": "The Unlikely Warrior",
+        "strength": "Obeyed God and went up against a vast army with only 300 men.",
+        "weakness": "Hid from the enemy and kept asking God for more signs.",
+        "verse": "Judges 6:12"
+      },
+      "quiz": [
+        {
+          "type": "mc",
+          "q": "How many men did Gideon take into battle?",
+          "options": [
+            "12",
+            "300",
+            "3,000",
+            "10,000"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "mc",
+          "q": "What did Gideon's men hold in their hands?",
+          "options": [
+            "Swords and shields",
+            "Bows and arrows",
+            "Trumpets, and torches inside jars",
+            "Slings and stones"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "mc",
+          "q": "What was Gideon doing when the angel found him?",
+          "options": [
+            "Threshing wheat in a winepress",
+            "Sleeping in a cave",
+            "Praying at the altar",
+            "Leading an army"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "samson",
+      "title": "The Strongman's Last Stand",
+      "era": "The Judges",
+      "place": "Gaza",
+      "ref": "Judges 16:23-30",
+      "summary": "Blind and chained, Samson prays one more time and brings down the temple of Dagon.",
+      "why": "Samson had everything: God-given strength and a calling from before he was born. He wasted much of it on pride and lust, and lost his eyes and his freedom. But his story doesn't end in the prison. His last prayer is humble: \"remember me... only this once.\" Even a man who has thrown away his gifts can still cry out to God.",
+      "videoQuery": "Samson story Judges 16 Bible animation",
+      "card": {
+        "name": "Samson",
+        "title": "The Fallen Strongman",
+        "strength": "Strength from God that no man could match.",
+        "weakness": "Pride and lust. He gave away the secret of his strength.",
+        "verse": "Judges 16:28"
+      },
+      "quiz": [
+        {
+          "type": "mc",
+          "q": "Who got Samson to reveal the secret of his strength?",
+          "options": [
+            "Jezebel",
+            "Delilah",
+            "Bathsheba",
+            "Rahab"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "mc",
+          "q": "What did Samson push down in his final act?",
+          "options": [
+            "The city gates",
+            "The walls of Gaza",
+            "The pillars of the temple",
+            "A Philistine tower"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "who",
+          "q": "\"Let me die with the Philistines.\"",
+          "options": [
+            "Saul",
+            "Samson",
+            "Goliath",
+            "Jonathan"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "david-goliath",
+      "title": "The Giant Falls",
+      "era": "The Kings",
+      "place": "Valley of Elah",
+      "ref": "1 Samuel 17:32-50",
+      "summary": "A shepherd boy turns down a king's armor and faces a giant with a sling.",
+      "why": "Everyone in Israel's army was looking at Goliath. David was looking at God. He'd already seen God help him against a lion and a bear while nobody was watching. Courage grows in private faithfulness long before it shows up on the battlefield. And David says it plainly: \"the battle is the LORD's.\"",
+      "videoQuery": "BibleProject 1 Samuel overview",
+      "card": {
+        "name": "David",
+        "title": "The Giant-Killer",
+        "strength": "Courage rooted in trust in God.",
+        "weakness": "Adultery with Bathsheba and the murder of her husband, Uriah.",
+        "verse": "1 Samuel 17:47"
+      },
+      "quiz": [
+        {
+          "type": "mc",
+          "q": "How many smooth stones did David pick up?",
+          "options": [
+            "One",
+            "Three",
+            "Five",
+            "Seven"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "mc",
+          "q": "What animals had David killed protecting his sheep?",
+          "options": [
+            "A lion and a bear",
+            "A wolf and a snake",
+            "A bear and a boar",
+            "A lion and a wolf"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "mc",
+          "q": "Whose armor did David refuse to wear?",
+          "options": [
+            "Jonathan's",
+            "Saul's",
+            "Goliath's",
+            "Samuel's"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "nathan",
+      "title": "\"Thou Art the Man\"",
+      "era": "The Kings",
+      "place": "Jerusalem",
+      "ref": "2 Samuel 12:1-13",
+      "summary": "The prophet Nathan confronts King David over Bathsheba and Uriah.",
+      "why": "The giant-killer became a king who took another man's wife and had him killed. Nathan walks into the palace and tells David the truth to his face, which could have cost Nathan his life. David's response is what makes him \"a man after God's own heart\": no excuses, just \"I have sinned.\" Psalm 51 was written out of this moment.",
+      "videoQuery": "BibleProject 2 Samuel overview",
+      "card": {
+        "name": "Nathan",
+        "title": "The Truth-Teller",
+        "strength": "Told a king the hard truth to his face.",
+        "weakness": "Scripture doesn't record his failures, only his nerve.",
+        "verse": "Psalm 51:10"
+      },
+      "quiz": [
+        {
+          "type": "mc",
+          "q": "Nathan's story was about a rich man who took a poor man's what?",
+          "options": [
+            "Field",
+            "Lamb",
+            "Wife",
+            "Vineyard"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "who",
+          "q": "\"Thou art the man.\"",
+          "options": [
+            "Samuel",
+            "Nathan",
+            "Joab",
+            "Absalom"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "who",
+          "q": "\"I have sinned against the LORD.\"",
+          "options": [
+            "Saul",
+            "Uriah",
+            "David",
+            "Solomon"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "carmel",
+      "title": "Fire on the Mountain",
+      "era": "The Prophets",
+      "place": "Mount Carmel",
+      "ref": "1 Kings 18:30-39",
+      "summary": "One prophet against hundreds. Elijah soaks his altar with water and calls down fire.",
+      "why": "Israel was trying to keep God and Baal both. Elijah forces the question: \"How long halt ye between two opinions?\" He stacks the odds against himself, drenching the altar, so there's no doubt who answered. One man standing alone with God was enough.",
+      "videoQuery": "BibleProject 1-2 Kings overview",
+      "card": {
+        "name": "Elijah",
+        "title": "The Firebrand",
+        "strength": "Stood alone against 450 prophets of Baal.",
+        "weakness": "After one threat from Jezebel he ran and asked to die.",
+        "verse": "1 Kings 18:21"
+      },
+      "quiz": [
+        {
+          "type": "mc",
+          "q": "How many prophets of Baal faced Elijah?",
+          "options": [
+            "12",
+            "70",
+            "450",
+            "1,000"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "mc",
+          "q": "What did Elijah have poured on his altar?",
+          "options": [
+            "Oil",
+            "Wine",
+            "Water",
+            "Blood"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "who",
+          "q": "\"The LORD, he is the God; the LORD, he is the God.\"",
+          "options": [
+            "Ahab",
+            "Elijah",
+            "The people",
+            "Obadiah"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "broom-tree",
+      "title": "Burned Out Under a Tree",
+      "era": "The Prophets",
+      "place": "Beersheba to Mount Horeb",
+      "ref": "1 Kings 19:1-13",
+      "summary": "Right after his greatest victory, Elijah runs, collapses and wants to die. God meets him.",
+      "why": "This is one of the most honest chapters in the Bible about burnout and despair. God doesn't lecture Elijah. First He lets him sleep and feeds him. Then He meets him not in the wind, the earthquake or the fire, but in a still small voice. Strong men crash too, and God is gentle with them. (If you're in that place right now, talk to someone you trust.)",
+      "videoQuery": "Elijah still small voice 1 Kings 19 Bible",
+      "quiz": [
+        {
+          "type": "mc",
+          "q": "Whose threat made Elijah run for his life?",
+          "options": [
+            "Ahab",
+            "Jezebel",
+            "The king of Syria",
+            "Baal's prophets"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "order",
+          "q": "Put what passed by Elijah on the mountain in order.",
+          "items": [
+            "A great wind",
+            "An earthquake",
+            "A fire",
+            "A still small voice"
+          ]
+        },
+        {
+          "type": "who",
+          "q": "\"It is enough; now, O LORD, take away my life.\"",
+          "options": [
+            "Jonah",
+            "Job",
+            "Elijah",
+            "Jeremiah"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "nehemiah",
+      "title": "Build With a Sword at Your Side",
+      "era": "Return from Exile",
+      "place": "Jerusalem",
+      "ref": "Nehemiah 4:14-23",
+      "summary": "Under threat of attack, the builders rebuild Jerusalem's wall with weapons in hand.",
+      "why": "Nehemiah was a man with a comfortable job in a palace who couldn't stop thinking about his broken home city. When enemies mocked and threatened, he didn't stop building and he didn't ignore the threat either. He prayed and posted guards. Faith and hard work go together.",
+      "videoQuery": "BibleProject Ezra Nehemiah overview",
+      "card": {
+        "name": "Nehemiah",
+        "title": "The Builder",
+        "strength": "Prayed, planned, and kept building under threat.",
+        "weakness": "Hot-tempered. He once pulled out men's hair in anger.",
+        "verse": "Nehemiah 4:14"
+      },
+      "quiz": [
+        {
+          "type": "mc",
+          "q": "What were Nehemiah and his people rebuilding?",
+          "options": [
+            "The temple",
+            "The wall of Jerusalem",
+            "Solomon's palace",
+            "The ark"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "mc",
+          "q": "What was Nehemiah's job for the king of Persia?",
+          "options": [
+            "General",
+            "Scribe",
+            "Cupbearer",
+            "Treasurer"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "who",
+          "q": "\"Be not ye afraid of them: remember the Lord... and fight for your brethren.\"",
+          "options": [
+            "Ezra",
+            "Nehemiah",
+            "Zerubbabel",
+            "Daniel"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "gethsemane",
+      "title": "The Garden",
+      "era": "The Gospels",
+      "place": "Gethsemane, Mount of Olives",
+      "ref": "Matthew 26:36-46",
+      "summary": "The night before the cross, Jesus prays in agony while His friends fall asleep.",
+      "why": "Here is real strength: not a man without fear, but a man who feels the full weight of what's coming and still says \"not as I will, but as thou wilt.\" Jesus asked His closest friends to stay awake with Him, and they kept falling asleep. He knows what it's like to carry something heavy while the people around you don't understand.",
+      "videoQuery": "BibleProject Gospel of Matthew part 2",
+      "card": {
+        "name": "Jesus",
+        "title": "The King Who Knelt",
+        "strength": "Faced the cross willingly, out of love.",
+        "weakness": "None. Tempted in every way, yet without sin (Hebrews 4:15).",
+        "verse": "Matthew 26:39"
+      },
+      "quiz": [
+        {
+          "type": "mc",
+          "q": "What did the disciples keep doing while Jesus prayed?",
+          "options": [
+            "Arguing",
+            "Falling asleep",
+            "Keeping watch",
+            "Singing"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "mc",
+          "q": "How many times did Jesus go away to pray?",
+          "options": [
+            "Once",
+            "Twice",
+            "Three times",
+            "Seven times"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "who",
+          "q": "\"Not as I will, but as thou wilt.\"",
+          "options": [
+            "Peter",
+            "Jesus",
+            "John",
+            "Judas"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "peter",
+      "title": "Restored on the Shore",
+      "era": "The Gospels",
+      "place": "Sea of Galilee",
+      "ref": "John 21:15-19",
+      "summary": "After Peter denied Him three times, the risen Jesus asks him three times: do you love me?",
+      "why": "Peter swore he'd die before he'd deny Jesus, then did it three times before the rooster crowed. After the resurrection, Jesus doesn't shame him. He cooks breakfast and asks him three times, once for each denial, \"lovest thou me?\" Then He gives Peter a job. Your worst failure doesn't have to be the end of your story.",
+      "videoQuery": "BibleProject Gospel of John part 2",
+      "card": {
+        "name": "Peter",
+        "title": "The Rock",
+        "strength": "Bold. The first to step out of the boat.",
+        "weakness": "Denied Jesus three times the night He was arrested.",
+        "verse": "John 21:17"
+      },
+      "quiz": [
+        {
+          "type": "mc",
+          "q": "How many times did Jesus ask Peter \"lovest thou me?\"",
+          "options": [
+            "Once",
+            "Twice",
+            "Three times",
+            "Seven times"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "mc",
+          "q": "What did Jesus tell Peter to do?",
+          "options": [
+            "Go home",
+            "Feed my sheep",
+            "Build a church in Rome",
+            "Fast forty days"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "order",
+          "q": "Put Peter's story in order.",
+          "items": [
+            "Walks on water",
+            "Denies Jesus three times",
+            "The rooster crows",
+            "Restored by the sea"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "paul",
+      "title": "Finish the Race",
+      "era": "The Early Church",
+      "place": "Rome",
+      "ref": "2 Timothy 4:6-8",
+      "summary": "Near the end of his life, in chains, Paul writes that he has fought the good fight.",
+      "why": "Paul started out hunting Christians. After meeting Jesus on the road to Damascus, he spent the rest of his life beaten, shipwrecked, jailed and still preaching. These are some of his last words, written from prison to a younger man he'd trained. He didn't say he won every battle. He said he finished and he kept the faith.",
+      "videoQuery": "BibleProject 2 Timothy overview",
+      "card": {
+        "name": "Paul",
+        "title": "The Finisher",
+        "strength": "Never quit: beaten, shipwrecked and imprisoned, still preaching.",
+        "weakness": "Hunted and jailed Christians before he met Jesus.",
+        "verse": "2 Timothy 4:7"
+      },
+      "quiz": [
+        {
+          "type": "mc",
+          "q": "What was Paul's name before his conversion?",
+          "options": [
+            "Simon",
+            "Saul",
+            "Silas",
+            "Stephen"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "mc",
+          "q": "Where did Paul meet Jesus?",
+          "options": [
+            "On the road to Damascus",
+            "In the temple",
+            "On a ship",
+            "In prison"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "who",
+          "q": "\"I have fought a good fight, I have finished my course, I have kept the faith.\"",
+          "options": [
+            "Peter",
+            "Timothy",
+            "Paul",
+            "John"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

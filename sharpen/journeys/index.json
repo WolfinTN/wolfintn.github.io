@@ -1,0 +1,41 @@
+{
+  "note": "To add a journey: put its file in this folder, add a line here, and bump version to push an update.",
+  "journeys": [
+    {
+      "id": "christmas",
+      "file": "christmas.json",
+      "version": 1,
+      "title": "The King Comes"
+    },
+    {
+      "id": "easter",
+      "file": "easter.json",
+      "version": 1,
+      "title": "The Road to the Cross"
+    },
+    {
+      "id": "life-of-jesus",
+      "file": "life-of-jesus.json",
+      "version": 1,
+      "title": "The Life of Jesus"
+    },
+    {
+      "id": "new-year",
+      "file": "new-year.json",
+      "version": 1,
+      "title": "Start Again"
+    },
+    {
+      "id": "warriors",
+      "file": "warriors.json",
+      "version": 1,
+      "title": "Warriors, Failures & Comebacks"
+    },
+    {
+      "id": "women-who-fought",
+      "file": "women-who-fought.json",
+      "version": 1,
+      "title": "Women Who Fought"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "life-of-jesus",
+  "title": "The Life of Jesus",
+  "subtitle": "7 moments that show who He really is",
+  "kind": "main",
+  "order": 2,
+  "version": 1,
+  "stops": [
+    {
+      "id": "jesus-temple",
+      "title": "About My Father's Business",
+      "era": "The Gospels",
+      "place": "Jerusalem",
+      "ref": "Luke 2:41-52",
+      "summary": "At twelve, Jesus stays behind in the temple, and His parents search for Him for three days.",
+      "why": "This is the only story we have from Jesus' childhood, and it already shows who He is. He knows God as His Father and is at home in His house. Then He goes back to Nazareth and obeys His parents. Knowing who you are doesn't make you too big for ordinary faithfulness.",
+      "videoQuery": "BibleProject Gospel of Luke part 1",
+      "quiz": [
+        {"type": "mc", "q": "How old was Jesus in this story?", "options": ["8", "12", "16", "30"], "answer": 1},
+        {"type": "mc", "q": "How long did Mary and Joseph search before they found Him?", "options": ["One day", "Three days", "A week", "Forty days"], "answer": 1},
+        {"type": "who", "q": "\"Wist ye not that I must be about my Father's business?\"", "options": ["Samuel", "Jesus", "John the Baptist", "Joseph"], "answer": 1}
+      ]
+    },
+    {
+      "id": "jesus-wilderness",
+      "title": "Tested in the Wilderness",
+      "era": "The Gospels",
+      "place": "Judean Wilderness",
+      "ref": "Matthew 4:1-11",
+      "summary": "After forty days without food, Jesus faces the devil's temptations and answers each one with Scripture.",
+      "why": "Jesus was tempted at His weakest point: hungry, alone, worn out. Every temptation offered a shortcut. Every time He answered with \"It is written.\" Temptation usually hits when you're tired and isolated, and the Word is the weapon He chose.",
+      "videoQuery": "BibleProject Gospel of Matthew part 1",
+      "quiz": [
+        {"type": "mc", "q": "How long did Jesus fast in the wilderness?", "options": ["Three days", "Seven days", "Forty days", "A year"], "answer": 2},
+        {"type": "mc", "q": "What was the first temptation?", "options": ["Jump from the temple", "Turn stones into bread", "Bow down to the devil", "Call down angels"], "answer": 1},
+        {"type": "mc", "q": "How did Jesus answer each temptation?", "options": ["He stayed silent", "He quoted Scripture", "He performed a miracle", "He called His disciples"], "answer": 1}
+      ]
+    },
+    {
+      "id": "jesus-fishermen",
+      "title": "Fishers of Men",
+      "era": "The Gospels",
+      "place": "Sea of Galilee",
+      "ref": "Luke 5:1-11",
+      "summary": "After a night of catching nothing, Peter lets down his nets at Jesus' word and hauls in a catch that breaks them.",
+      "why": "Peter was a professional fisherman getting advice from a carpenter-preacher, and he obeyed anyway. When he saw who Jesus really was, his first reaction was shame: \"I am a sinful man.\" Jesus didn't send him away. He gave him a mission.",
+      "videoQuery": "Jesus calls the fishermen Luke 5 Bible",
+      "card": {"name": "James & John", "title": "Sons of Thunder", "strength": "Left their boats, their nets and their father to follow Jesus.", "weakness": "Wanted to call fire down on a village that turned Jesus away.", "verse": "Mark 3:17"},
+      "quiz": [
+        {"type": "who", "q": "\"Depart from me; for I am a sinful man, O Lord.\"", "options": ["Andrew", "Peter", "James", "Zacchaeus"], "answer": 1},
+        {"type": "mc", "q": "What happened when they let down the nets?", "options": ["They caught nothing", "One huge fish", "So many fish the nets broke", "A coin in a fish's mouth"], "answer": 2},
+        {"type": "mc", "q": "What did Jesus say Peter would catch from now on?", "options": ["Bigger fish", "Men", "Nothing", "Treasure"], "answer": 1}
+      ]
+    },
+    {
+      "id": "jesus-storm",
+      "title": "Peace, Be Still",
+      "era": "The Gospels",
+      "place": "Sea of Galilee",
+      "ref": "Mark 4:35-41",
+      "summary": "A violent storm hits the boat while Jesus sleeps, until He stands up and silences it.",
+      "why": "The disciples were experienced fishermen and they thought they were going to die. Jesus was asleep. When He wakes, He speaks to the storm before He speaks to them. Then He asks the real question: why are you so afraid? The storm wasn't bigger than the One in the boat.",
+      "videoQuery": "Jesus calms the storm Mark 4 Bible",
+      "quiz": [
+        {"type": "mc", "q": "What was Jesus doing when the storm hit?", "options": ["Praying", "Rowing", "Sleeping on a pillow", "Fishing"], "answer": 2},
+        {"type": "mc", "q": "What did Jesus say to the wind and the sea?", "options": ["\"Be gone\"", "\"Peace, be still\"", "\"It is finished\"", "\"Fear not\""], "answer": 1},
+        {"type": "who", "q": "\"What manner of man is this, that even the wind and the sea obey him?\"", "options": ["The Pharisees", "The disciples", "Pilate", "The crowd on shore"], "answer": 1}
+      ]
+    },
+    {
+      "id": "jesus-5000",
+      "title": "Five Loaves, Two Fish",
+      "era": "The Gospels",
+      "place": "Near the Sea of Galilee",
+      "ref": "John 6:1-14",
+      "summary": "A boy's small lunch becomes enough to feed more than five thousand people, with leftovers.",
+      "why": "Andrew looked at the boy's lunch and asked the honest question: \"what are they among so many?\" Jesus took the little that was offered and made it more than enough. What you bring doesn't have to be big. It has to be in His hands.",
+      "videoQuery": "Jesus feeds 5000 John 6 Bible",
+      "card": {"name": "Andrew", "title": "The Introducer", "strength": "Kept bringing people to Jesus: his brother Peter, then a boy with a lunch.", "weakness": "Doubted the little he had: \"what are they among so many?\"", "verse": "John 1:41"},
+      "quiz": [
+        {"type": "mc", "q": "Who had the five loaves and two fish?", "options": ["Peter", "A boy", "A Pharisee", "A widow"], "answer": 1},
+        {"type": "mc", "q": "How many baskets of leftovers were gathered?", "options": ["3", "7", "12", "40"], "answer": 2},
+        {"type": "mc", "q": "What kind of loaves were they?", "options": ["Wheat", "Barley", "Unleavened", "Honey"], "answer": 1}
+      ]
+    },
+    {
+      "id": "jesus-zacchaeus",
+      "title": "The Man in the Tree",
+      "era": "The Gospels",
+      "place": "Jericho",
+      "ref": "Luke 19:1-10",
+      "summary": "A crooked tax collector climbs a tree to see Jesus, and Jesus invites Himself to his house.",
+      "why": "Zacchaeus got rich by cheating his own people, and everyone knew it. Jesus picked him out of the crowd anyway. Nobody lectured him. Being with Jesus changed him, and he paid people back four times over. Jesus came \"to seek and to save that which was lost.\"",
+      "videoQuery": "Zacchaeus Luke 19 Bible story",
+      "card": {"name": "Zacchaeus", "title": "The Changed Man", "strength": "When grace found him, he made it right: half to the poor and four times back.", "weakness": "Got rich cheating his own people.", "verse": "Luke 19:10"},
+      "quiz": [
+        {"type": "mc", "q": "What did Zacchaeus climb to see Jesus?", "options": ["A wall", "A sycamore tree", "A rooftop", "A tower"], "answer": 1},
+        {"type": "mc", "q": "What was Zacchaeus' job?", "options": ["Chief tax collector", "Fisherman", "Soldier", "Priest"], "answer": 0},
+        {"type": "mc", "q": "How much did he promise to repay anyone he cheated?", "options": ["Double", "Three times", "Four times", "Ten times"], "answer": 2}
+      ]
+    },
+    {
+      "id": "jesus-risen",
+      "title": "The Empty Tomb",
+      "era": "The Gospels",
+      "place": "Jerusalem",
+      "ref": "John 20:1-18",
+      "summary": "Early Sunday morning the tomb is empty, and the risen Jesus speaks Mary Magdalene's name.",
+      "why": "Everything rests on this. If Jesus stayed dead, the rest of the story is just good advice. The first person He appeared to was a woman whose testimony many of that day wouldn't have counted. He called her by name and sent her to tell the others.",
+      "videoQuery": "BibleProject Gospel of John part 2",
+      "card": {"name": "Mary Magdalene", "title": "The First Witness", "strength": "Stayed at the cross and came first to the tomb.", "weakness": "Once held by seven demons until Jesus set her free.", "verse": "John 20:18"},
+      "quiz": [
+        {"type": "mc", "q": "Who came to the tomb first that morning?", "options": ["Peter", "Mary Magdalene", "Thomas", "Joseph of Arimathea"], "answer": 1},
+        {"type": "mc", "q": "Who did Mary think Jesus was at first?", "options": ["An angel", "A soldier", "The gardener", "A ghost"], "answer": 2},
+        {"type": "order", "q": "Put the morning in order.", "items": ["Mary finds the stone moved", "Peter and John run to the tomb", "Mary weeps outside the tomb", "Jesus calls Mary by name"]}
+      ]
+    }
+  ]
+}

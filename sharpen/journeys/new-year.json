@@ -1,0 +1,87 @@
+{
+  "id": "new-year",
+  "title": "Start Again",
+  "subtitle": "A New Year journey in 5 stops",
+  "kind": "season",
+  "season": "newyear",
+  "order": 12,
+  "version": 1,
+  "stops": [
+    {
+      "id": "ny-mercies",
+      "title": "New Every Morning",
+      "era": "After the Fall of Jerusalem",
+      "place": "Jerusalem",
+      "ref": "Lamentations 3:19-26",
+      "summary": "In the ruins of Jerusalem, the writer remembers one thing that hasn't been destroyed: God's mercy.",
+      "why": "Lamentations is written from the worst moment in Israel's history. Right in the middle of the grief is this: His compassions fail not, they are new every morning. You don't need a new year to start over. You get a new morning.",
+      "videoQuery": "BibleProject Lamentations overview",
+      "quiz": [
+        {"type": "mc", "q": "What does the writer say is new every morning?", "options": ["The sun", "God's compassions", "Our strength", "The law"], "answer": 1},
+        {"type": "mc", "q": "Finish the line: \"Great is thy ___.\"", "options": ["Power", "Glory", "Faithfulness", "Name"], "answer": 2},
+        {"type": "mc", "q": "What does the passage say is good to do?", "options": ["Hope and quietly wait for the LORD", "Fight back", "Forget the past", "Make a plan"], "answer": 0}
+      ]
+    },
+    {
+      "id": "ny-press",
+      "title": "Forgetting What's Behind",
+      "era": "The Early Church",
+      "place": "Rome",
+      "ref": "Philippians 3:12-14",
+      "summary": "Paul admits he hasn't arrived, so he forgets what's behind and presses toward the goal.",
+      "why": "Paul had a past worth forgetting (he hunted Christians) and a résumé worth bragging about. He let go of both. Your worst failures and your best wins can both keep you stuck looking backward.",
+      "videoQuery": "BibleProject Philippians overview",
+      "quiz": [
+        {"type": "mc", "q": "What does Paul say he forgets?", "options": ["His enemies", "Those things which are behind", "His name", "The law"], "answer": 1},
+        {"type": "mc", "q": "What does he press toward?", "options": ["Rome", "The mark for the prize", "Riches", "Rest"], "answer": 1},
+        {"type": "mc", "q": "Does Paul claim he has already arrived?", "options": ["Yes, he's perfect", "No, he hasn't attained it yet", "He doesn't say", "Only in prison"], "answer": 1}
+      ]
+    },
+    {
+      "id": "ny-heart",
+      "title": "A New Heart",
+      "era": "The Exile",
+      "place": "Babylon",
+      "ref": "Ezekiel 36:25-27",
+      "summary": "God promises to take out the heart of stone and give a heart of flesh and His own Spirit.",
+      "why": "Resolutions try to change behavior from the outside. God promises to change you from the inside, a new heart and His Spirit in you. This is a promise to people in exile who had blown it. Real change is something He does in you.",
+      "videoQuery": "BibleProject Ezekiel overview",
+      "quiz": [
+        {"type": "mc", "q": "What kind of heart does God take away?", "options": ["A broken heart", "A heart of stone", "A proud heart", "A weak heart"], "answer": 1},
+        {"type": "mc", "q": "What does He give in its place?", "options": ["A heart of gold", "A heart of flesh", "A heart of iron", "A heart of fire"], "answer": 1},
+        {"type": "mc", "q": "What does God promise to put within His people?", "options": ["His law on stone", "His Spirit", "Fear", "Wisdom only"], "answer": 1}
+      ]
+    },
+    {
+      "id": "ny-joshua",
+      "title": "Be Strong and Courageous",
+      "era": "The Conquest",
+      "place": "The Jordan River",
+      "ref": "Joshua 1:1-9",
+      "summary": "Moses is dead, and Joshua has to lead a nation into the unknown. God tells him three times to be strong.",
+      "why": "Joshua had big shoes to fill and a hard road ahead. God didn't promise it would be easy. He promised to be there: \"the LORD thy God is with thee whithersoever thou goest.\" That's how you walk into a new year.",
+      "videoQuery": "BibleProject Joshua overview",
+      "card": {"name": "Joshua", "title": "The Successor", "strength": "Led Israel into the Promised Land after Moses.", "weakness": "Made a treaty with the Gibeonites without asking God.", "verse": "Joshua 1:9"},
+      "quiz": [
+        {"type": "mc", "q": "Who had just died when this chapter begins?", "options": ["Aaron", "Moses", "Caleb", "Eli"], "answer": 1},
+        {"type": "mc", "q": "What did God tell Joshua to do with the book of the law?", "options": ["Keep it in the ark", "Meditate on it day and night", "Read it once a year", "Give it to the priests"], "answer": 1},
+        {"type": "who", "q": "\"Be strong and of a good courage; be not afraid.\"", "options": ["Moses to Aaron", "God to Joshua", "David to Solomon", "Paul to Timothy"], "answer": 1}
+      ]
+    },
+    {
+      "id": "ny-newcreation",
+      "title": "All Things New",
+      "era": "The Early Church",
+      "place": "Macedonia",
+      "ref": "2 Corinthians 5:17-21",
+      "summary": "Anyone in Christ is a new creation. The old is gone, and the new has come.",
+      "why": "This is the deepest fresh start there is. It isn't a better version of the old you; it's a new creation. Then Paul gives you a job: ambassador. A new start comes with a mission.",
+      "videoQuery": "BibleProject 2 Corinthians overview",
+      "quiz": [
+        {"type": "mc", "q": "What is anyone \"in Christ\"?", "options": ["Perfect", "A new creature", "Free from trouble", "A prophet"], "answer": 1},
+        {"type": "mc", "q": "What does Paul call believers in this passage?", "options": ["Soldiers", "Ambassadors for Christ", "Servants of the law", "Strangers"], "answer": 1},
+        {"type": "mc", "q": "Finish it: \"old things are passed away; behold, all things are become ___.\"", "options": ["Holy", "New", "Light", "One"], "answer": 1}
+      ]
+    }
+  ]
+}
